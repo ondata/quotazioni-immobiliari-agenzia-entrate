@@ -2,8 +2,8 @@
 
 - [Introduzione](#introduzione)
 - [Come abbiamo raccolto i dati](#come-abbiamo-raccolto-i-dati)
+- [La struttura di questo repository](#la-struttura-di-questo-repository)
 - [Note](#note)
-- [appunti](#appunti)
 
 <!-- /TOC -->
 
@@ -33,17 +33,25 @@ Per richiederli - grazie alle [note di Carlo](https://groups.google.com/d/msg/sp
 Una volta fatto, fare click su "Servizi ipotecari e catastali, Osservatorio Mercato Immobiliare" (tra i servizi presenti nel box nella parte sinistra della pagina), poi click sulla sottovoce "Forniture OMI - Quotazioni Immobiliari" e da lì è possibile fare le richieste per comune, regione o per l'intero territorio nazionale.<br>
 Abbiamo richiesto quelle per l'intero territorio.
 
-Per dettagli sui dati si può fare riferimento alla pagina dedicata dell'Agenzia "[Manuali e guide](https://www.agenziaentrate.gov.it/wps/content/Nsilib/Nsi/Schede/FabbricatiTerreni/omi/Manuali+e+guide/?page=schedefabbricatieterreni)".
+Per dettagli sui dati si può fare riferimento alla pagina dedicata dell'Agenzia ["Manuali e guide"](https://www.agenziaentrate.gov.it/wps/content/Nsilib/Nsi/Schede/FabbricatiTerreni/omi/Manuali+e+guide/?page=schedefabbricatieterreni).
 
+# La struttura di questo repository
+
+È diviso in queste sottcartelle:
+
+- [`rawData`](./rawData), che contiene i file "grezzi" così come scaricati dal sito dell'Ageniza;
+- [`doc`](./doc), con i file di documentazione scaricati dalla pagina ufficiale ["Manuali e guide"](https://www.agenziaentrate.gov.it/wps/content/Nsilib/Nsi/Schede/FabbricatiTerreni/omi/Manuali+e+guide/?page=schedefabbricatieterreni);
+- [`data`](./doc), con i dati da noi rielaborati.
+
+I file CSV originali sono stati così rielaborati:
+
+- _encoding_ impostato a `UTF-8`;
+- rimosse intestazioni inutili e separatore di campo inserito erroneamente a fine linea;
+- nei file delle zone, nel campo `Zona_Descr` è presente un apice singolo a inizio e fine cella. È stato rimosso, perché inutile e perché è un carattere che potrebbe dare dei problemi in lettura;
+- è stato fatta l'unione dei 6 file delle "Zone OMI" e dei 6 per i "Valori" in due file ([zone.7z](./data/zone.7z) e [valori.7z]((./data/valori.7z))). È stata aggiunta la colonna `file` per poter risalire ad anno e semestre di ogni riga.
+
+Nella radice c'è uno _script_ bash ([`zoneOMI.sh`](./zoneOMI.sh)), in cui viene effettuata la trasformazione dai file grezzi originali a quelli da noi rielaborati.
 
 # Note
 
-- nei file delle zone nel campo `Zona_Descr` ci sono inutili apici singoli a inizio e fine cella;
-
-# appunti
-
-- lfs per i due file;
-- no traciatto record
-- campo `Sez` sempre nullo nei file delle zone
-- fatto il merge dei file
-- inserito nome file sorgernte 
+Purtroppo sembra non sia possibile scaricare in blocco (li chiederemo), per tutto il territorio, i file cartografici delle zone. Questo limita l'utilizzo in termini di analisi di questi dati.
