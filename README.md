@@ -57,3 +57,5 @@ Nella radice c'è uno _script_ bash ([`zoneOMI.sh`](./zoneOMI.sh)), in cui viene
 Purtroppo sembra non sia possibile scaricare in blocco (li chiederemo), per tutto il territorio, i file cartografici delle zone. Questo limita l'utilizzo in termini di analisi di questi dati.
 
 Una licenza non chiaramente definita è un limite all'utilizzo.
+
+Sono dati che dovrebbero essere pubblicati nel portale nazionale italiano sui dati aperti; ma ovviamente dopo avergli applicato una licenza adeguata
