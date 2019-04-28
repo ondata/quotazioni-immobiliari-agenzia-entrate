@@ -58,4 +58,4 @@ Purtroppo sembra non sia possibile scaricare in blocco (li chiederemo), per tutt
 
 Una licenza non chiaramente definita è un limite all'utilizzo.
 
-Sono dati che dovrebbero essere pubblicati nel portale nazionale italiano sui dati aperti; ma ovviamente dopo avergli applicato una licenza adeguata
+Sono dati che dovrebbero essere pubblicati nel portale nazionale italiano sui dati aperti; ma ovviamente dopo avergli applicato una licenza adeguata.
