@@ -1,0 +1,4 @@
+rawData/*.csv
+tmp*
+data/zone.csv
+data/valori.csv
