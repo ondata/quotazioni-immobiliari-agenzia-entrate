@@ -5,7 +5,7 @@
 - [La struttura di questo repository](#la-struttura-di-questo-repository)
 - [Anteprima dei dati](#anteprima-dei-dati)
     - [Zone](#zone)
-    - [Risorse](#risorse)
+    - [Valori](#valori)
 - [Note](#note)
 
 <!-- /TOC -->
