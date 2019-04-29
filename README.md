@@ -42,7 +42,7 @@ Per i dettagli sui dati si può fare riferimento alla pagina dedicata dell'Agenz
 
 È diviso in queste sottcartelle:
 
-- [`rawData`](./rawData), che contiene i file "grezzi", così come scaricati dal sito dell'Ageniza;
+- [`rawData`](./rawData), che contiene i file "grezzi", così come scaricati dal sito dell'Agenzia;
 - [`doc`](./doc), con i file di documentazione scaricati dalla pagina ufficiale ["Manuali e guide"](https://www.agenziaentrate.gov.it/wps/content/Nsilib/Nsi/Schede/FabbricatiTerreni/omi/Manuali+e+guide/?page=schedefabbricatieterreni);
 - [`data`](./doc), con i dati da noi rielaborati.
 
