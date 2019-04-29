@@ -90,6 +90,8 @@ Nella radice c'è uno _script_ bash ([`zoneOMI.sh`](./zoneOMI.sh)), in cui viene
 
 # Note
 
+Circa il 10% dei dati sui valori ha valori di `Loc_min` e `Loc_max` pari a `0`.
+
 Purtroppo sembra non sia possibile scaricare in blocco (li chiederemo), per tutto il territorio, i file cartografici delle zone. Questo limita l'utilizzo in termini di analisi di questi dati.
 
 Una licenza non chiaramente definita è un limite all'utilizzo.
