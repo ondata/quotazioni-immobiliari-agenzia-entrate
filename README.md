@@ -35,7 +35,7 @@ Abbiamo creato questo _repository_ per:
 
 Luca Elle ci [ha segnalato](https://www.facebook.com/andreaborruso/posts/10156494420143163?comment_id=10156494774518163&comment_tracking=%7B%22tn%22%3A%22R%22%7D) (grazie) che con "_sentenza n. 3197 del 9 febbraio 2018 le quotazioni OMI possono essere prese in considerazione per individuare un valore presunto ribadendo che sono idonee solamente a “condurre ad indicazioni di valori di larga massima”_".
 
-Ci ha indicato che "_non sono considerati validi per valutazione immobiliare con metodi internazionali (ad esempio RICS) e nemmno l'ABI lo riconosce più come valutazione ufficiale_".
+Ci ha indicato che "_non sono considerati validi per valutazione immobiliare con metodi internazionali (ad esempio RICS) e nemmeno l'ABI lo riconosce più come valutazione ufficiale_".
 
 # Come sono stati raccolti i dati
 
