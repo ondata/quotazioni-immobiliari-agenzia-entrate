@@ -44,7 +44,7 @@ Per i dettagli sui dati si può fare riferimento alla pagina dedicata dell'Agenz
 
 - [`rawData`](./rawData), che contiene i file "grezzi", così come scaricati dal sito dell'Agenzia;
 - [`doc`](./doc), con i file di documentazione scaricati dalla pagina ufficiale ["Manuali e guide"](https://www.agenziaentrate.gov.it/wps/content/Nsilib/Nsi/Schede/FabbricatiTerreni/omi/Manuali+e+guide/?page=schedefabbricatieterreni);
-- [`data`](./doc), con i dati da noi rielaborati.
+- [`data`](./data), con i dati da noi rielaborati.
 
 I file CSV originali sono stati così rielaborati:
 
