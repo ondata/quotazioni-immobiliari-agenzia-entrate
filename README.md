@@ -77,16 +77,16 @@ Nella radice c'è uno _script_ bash ([`zoneOMI.sh`](./zoneOMI.sh)), in cui viene
 
 | Area_territoriale | Regione | Prov | Comune_ISTAT | Comune_cat | Sez | Comune_amm | Comune_descrizione | Fascia | Zona | LinkZona | Cod_Tip | Descr_Tipologia | Stato | Stato_prev | Compr_min | Compr_max | Sup_NL_compr | Loc_min | Loc_max | Sup_NL_loc | file |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| NORD-OVEST | PIEMONTE | AL | 1006103 | A2FT |   | F403 | MONTALDEO | B | B1 | AL00003751 | 9 | Magazzini | NORMALE | P | 320 | 400 | L | 1,5 | 1,8 | L | QI_294577_1_20182_VALORI_utf8.csv |
-| CENTRO | LAZIO | FR | 12060085 | M2DL |   | L780 | VEROLI | D | D1 | FR00000410 | 13 | Box | NORMALE | P | 500 | 600 | L | 1,7 | 2,5 | N | QI_294577_1_20182_VALORI_utf8.csv |
-| NORD-EST | FRIULI-VENEZIA GIULIA | UD | 6030103 | F6FN |   | I092 | SAN PIETRO AL NATISONE | R | R1 | UD00002905 | 13 | Box | NORMALE | P | 250 | 375 | L | 1 | 1,5 | L | QI_294577_1_20182_VALORI_utf8.csv |
-| NORD-EST | VENETO | VE | 5027033 | D1BR |   | H823 | SAN DONA` DI PIAVE | D | D1 | VE00001553 | 5 | Negozi | OTTIMO | P | 1200 | 1700 | L | 0 | 0 |  | QI_294583_1_20162_VALORI_utf8.csv |
-| SUD | MOLISE | CB | 14070078 | P1DW |   | L113 | TERMOLI | E | E1 | CB00000336 | 20 | Abitazioni civili | NORMALE | P | 940 | 1400 | L | 3 | 4,3 | L | QI_294586_1_20161_VALORI_utf8.csv |
-| NORD-EST | EMILIA-ROMAGNA | MO | 8036044 | H4BT |   | I802 | SOLIERA | E | E3 | MO00002882 | 20 | Abitazioni civili | NORMALE | P | 900 | 1300 | L | 3,9 | 5,5 | N | QI_294581_1_20172_VALORI_utf8.csv |
-| ISOLE | SARDEGNA | OR | 20095071 | V4CV |   | L991 | VILLANOVA TRUSCHEDU | B | B1 | OR00001020 | 7 | Capannoni tipici | NORMALE | P | 120 | 180 | L | ,6 | ,8 | L | QI_294583_1_20162_VALORI_utf8.csv |
-| SUD | CALABRIA | RC | 18080006 | T1AG |   | A544 | BAGALADI | R | R1 | RC00004567 | 7 | Capannoni tipici | NORMALE | P | 250 | 300 | L | 1,3 | 1,6 | L | QI_294581_1_20172_VALORI_utf8.csv |
-| CENTRO | TOSCANA | AR | 9051026 | I2BC |   | F656 | MONTEVARCHI | D | D1 | AR00000624 | 8 | Capannoni industriali | NORMALE | P | 300 | 480 | L | 1,7 | 2,3 | N | QI_294582_1_20171_VALORI_utf8.csv |
-| NORD-EST | VENETO | BL | 5025063 | D2CN |   | L590 | VALLE DI CADORE | B | B1 | BL00001163 | 10 | Laboratori | NORMALE | P | 255 | 365 | L | 2,6 | 3,9 | L | QI_294582_1_20171_VALORI_utf8.csv |
+| NORD-OVEST | PIEMONTE | TO | 1001189 | A1JH |   | G559 | PIANEZZA | D | D2 | TO00001213 | 8 | Capannoni industriali | NORMALE | P | 290 | 430 | L | 1.9 | 2.7 | L | QI_294577_1_20182_VALORI_utf8.csv |
+| NORD-OVEST | LOMBARDIA | MI | 3015002 | C1AC |   | A010 | ABBIATEGRASSO | B | B1 | MI00004564 | 20 | Abitazioni civili | OTTIMO | P | 2000 | 2250 | L | 7 | 7.8 | L | QI_294583_1_20162_VALORI_utf8.csv |
+| SUD | CAMPANIA | SA | 15065106 | Q5EQ |   | H394 | ROCCADASPIDE | D | D1 | SA00002149 | 16 | Autorimesse | NORMALE | P | 270 | 350 | L | 0.7 | 1 | L | QI_294577_1_20182_VALORI_utf8.csv |
+| SUD | CAMPANIA | AV | 15064002 | Q2AC |   | A228 | ALTAVILLA IRPINA | B | B1 | AV00000044 | 5 | Negozi | NORMALE | P | 1000 | 1300 | L | 4.7 | 6.2 | L | QI_294582_1_20171_VALORI_utf8.csv |
+| CENTRO | MARCHE | AP | 11044060 | K2CZ |   | G920 | PORTO SAN GIORGIO | C | C1 | AP00002067 | 6 | Uffici | OTTIMO |  | 2400 | 3300 | L | 9.8 | 14 | L | QI_294583_1_20162_VALORI_utf8.csv |
+| NORD-OVEST | LOMBARDIA | BS | 3017166 | C3KG |   | H598 | ROVATO | D | D1 | BS00003091 | 14 | Posti auto coperti | NORMALE | P | 410 | 495 | L | 1.3 | 1.6 | N | QI_294586_1_20161_VALORI_utf8.csv |
+| NORD-EST | VENETO | PD | 5028083 | D3DI |   | I319 | SANT`ELENA | B | B1 | PD00000449 | 20 | Abitazioni civili | NORMALE | P | 850 | 1000 | L | 2.9 | 3.3 | L | QI_294586_1_20161_VALORI_utf8.csv |
+| NORD-EST | FRIULI-VENEZIA GIULIA | UD | 6030062 | F6DH |   | F756 | MORTEGLIANO | D | D1 | UD00000506 | 20 | Abitazioni civili | NORMALE | P | 650 | 970 | L | 2.5 | 3.7 | L | QI_294582_1_20171_VALORI_utf8.csv |
+| ISOLE | SICILIA | CT | 19087004 | U4AE |   | A028 | ACIREALE | C | C2 | CT00002773 | 21 | Abitazioni di tipo economico | NORMALE | P | 870 | 1150 | L | 2.9 | 3.8 | L | QI_294582_1_20171_VALORI_utf8.csv |
+| NORD-OVEST | PIEMONTE | TO | 1001112 | A1FR |   | D933 | GASSINO TORINESE | B | B1 | TO00000923 | 20 | Abitazioni civili | NORMALE | P | 980 | 1500 | L | 3.8 | 5.6 | L | QI_294585_1_20181_VALORI_utf8.csv |
 
 # Note
 
