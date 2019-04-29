@@ -47,9 +47,10 @@ done
 mv "$folder"/rawData/*_utf8*.csv "$folder"/data
 rm "$folder"/rawData/*.csv
 
-
+cd "$folder"/data
 # crea file di insieme per le zone e rimuovi apici singoli a inizio e fine cella nel campo Zona_Descr
 mlr --csv put '$file=FILENAME;$Zona_Descr=gsub($Zona_Descr,"^'\''","");$Zona_Descr=gsub($Zona_Descr,"'\''$","")' "$folder"/data/*ZONE_utf8.csv  >"$folder"/data/zone.csv
 # crea file di insieme per i valori
 mlr --csv put '$file=FILENAME' "$folder"/data/*VALORI_utf8.csv  >"$folder"/data/valori.csv
-
+# applica ai valori numerici la "formattazione anglosassone", da "5,3" a "5.3"
+mlr -I --csv put -S '$Loc_min=gsub($Loc_min,"\.","");$Loc_min=gsub($Loc_min,",",".");$Loc_min=gsub($Loc_min,"^\.","0.");$Loc_max=gsub($Loc_max,"\.","");$Loc_max=gsub($Loc_max,",",".");$Loc_max=gsub($Loc_max,"^\.","0.")' "$folder"/data/valori.csv

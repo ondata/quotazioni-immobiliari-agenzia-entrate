@@ -51,7 +51,8 @@ I file CSV originali sono stati così rielaborati:
 - _encoding_ impostato a `UTF-8`;
 - rimosse intestazioni inutili e separatore di campo inserito erroneamente a fine linea;
 - nei file delle zone, nel campo `Zona_Descr` è presente un apice singolo a inizio e fine cella. È stato rimosso, perché inutile e potrebbe dare dei problemi in lettura;
-- è stato fatta l'unione dei 6 file delle "Zone OMI" e dei 6 per i "Valori" in due file ([zone.7z](./data/zone.7z) e [valori.7z]((./data/valori.7z))); quello sui valori è un file di circa 1 milione di righe. A questi è stata aggiunta la colonna `file` per poter risalire ad anno e semestre di ogni riga.
+- è stata fatta l'unione dei 6 file delle "Zone OMI" e dei 6 per i "Valori" in due file (rispettivamente [zone.7z](./data/zone.7z) e [valori.7z]((./data/valori.7z))); quello sui valori è un file di circa 1 milione di righe. A questi è stata aggiunta la colonna `file` per poter risalire ad anno e semestre di ogni riga;
+- ai valori numerici è stata applicata la "rappresentazione" anglosassone, con il `.` come separatore dei decimali (questo però soltanto nei due file "zone.csv" e "valori.csv").
 
 Nella radice c'è uno _script_ bash ([`zoneOMI.sh`](./zoneOMI.sh)), in cui viene effettuata la trasformazione dai file "grezzi" originali a quelli da noi rielaborati.
 
