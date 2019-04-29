@@ -1,6 +1,7 @@
 <!-- TOC -->
 
 - [Introduzione](#introduzione)
+- [Nota sulla validità di questi dati](#nota-sulla-validità-di-questi-dati)
 - [Come sono stati raccolti i dati](#come-sono-stati-raccolti-i-dati)
 - [La struttura di questo repository](#la-struttura-di-questo-repository)
 - [Anteprima dei dati](#anteprima-dei-dati)
@@ -29,6 +30,12 @@ Abbiamo creato questo _repository_ per:
   - hanno un **separatore di campo a fine linea errato**, ma nei CSV (si vedano le [spefiche](https://tools.ietf.org/html/rfc4180)) non ci deve essere: _The last field in the record must not be followed by a comma_;
   - **non è dichiarato l'_encoding_**. Ne abbiamo fatto l'_inferencing_ e sembra che sia più d'uno; pertanto sono stati tutti impostati come `UTF-8`;
   - sono **divisi in file semestrali** a partire **da inizio 2016**, distribuiti sue due categorie (le zone OMI e i valori), per un totale di 12 file. **Li abbiamo riuniti in 2**, uno per ogni categoria.
+
+# Nota sulla validità di questi dati
+
+Luca Elle ci [ha segnalato](https://www.facebook.com/andreaborruso/posts/10156494420143163?comment_id=10156494774518163&comment_tracking=%7B%22tn%22%3A%22R%22%7D) (grazie) che con "_sentenza n. 3197 del 9 febbraio 2018 le quotazioni OMI possono essere prese in considerazione per individuare un valore presunto ribadendo che sono idonee solamente a “condurre ad indicazioni di valori di larga massima”_".
+
+Ci ha indicato che "_non sono considerati validi per valutazione immobiliare con metodi internazionali (ad esempio RICS) e nemmno l'ABI lo riconosce più come valutazione ufficiale_".
 
 # Come sono stati raccolti i dati
 
