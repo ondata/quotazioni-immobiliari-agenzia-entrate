@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+									<kml xmlns="http://www.opengis.net/kml/2.2"
+									xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+									xsi:schemaLocation="http://www.opengis.net/kml/2.2
+									http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd">
+									<Document>
+<name>AVELLINO</name><description><![CDATA[<p>Zone OMI estratte il 30 aprile 2019<br>Nro Comuni disponibili: 116</p>]]></description><NetworkLink><name>Comune di AIELLO DEL SABATO</name><Link><href>Comuni/Comune di AIELLO DEL SABATO 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di ALTAVILLA IRPINA</name><Link><href>Comuni/Comune di ALTAVILLA IRPINA 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di ANDRETTA</name><Link><href>Comuni/Comune di ANDRETTA 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di AQUILONIA</name><Link><href>Comuni/Comune di AQUILONIA 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di ARIANO IRPINO</name><Link><href>Comuni/Comune di ARIANO IRPINO 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di ATRIPALDA</name><Link><href>Comuni/Comune di ATRIPALDA 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di AVELLA</name><Link><href>Comuni/Comune di AVELLA 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di AVELLINO</name><Link><href>Comuni/Comune di AVELLINO 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di BAGNOLI IRPINO</name><Link><href>Comuni/Comune di BAGNOLI IRPINO 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di BAIANO</name><Link><href>Comuni/Comune di BAIANO 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di BISACCIA</name><Link><href>Comuni/Comune di BISACCIA 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di BONITO</name><Link><href>Comuni/Comune di BONITO 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di CAIRANO</name><Link><href>Comuni/Comune di CAIRANO 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di CALABRITTO</name><Link><href>Comuni/Comune di CALABRITTO 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di CALITRI</name><Link><href>Comuni/Comune di CALITRI 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di CANDIDA</name><Link><href>Comuni/Comune di CANDIDA 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di CAPOSELE</name><Link><href>Comuni/Comune di CAPOSELE 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di CAPRIGLIA IRPINA</name><Link><href>Comuni/Comune di CAPRIGLIA IRPINA 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di CARIFE</name><Link><href>Comuni/Comune di CARIFE 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di CASALBORE</name><Link><href>Comuni/Comune di CASALBORE 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di CASSANO IRPINO</name><Link><href>Comuni/Comune di CASSANO IRPINO 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di CASTEL BARONIA</name><Link><href>Comuni/Comune di CASTEL BARONIA 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di CASTELFRANCI</name><Link><href>Comuni/Comune di CASTELFRANCI 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di CASTELVETERE SUL CALORE</name><Link><href>Comuni/Comune di CASTELVETERE SUL CALORE 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di CERVINARA</name><Link><href>Comuni/Comune di CERVINARA 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di CESINALI</name><Link><href>Comuni/Comune di CESINALI 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di CHIANCHE</name><Link><href>Comuni/Comune di CHIANCHE 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di CHIUSANO DI S DOMENICO</name><Link><href>Comuni/Comune di CHIUSANO DI S DOMENICO 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di CONTRADA</name><Link><href>Comuni/Comune di CONTRADA 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di CONZA DELLA CAMPANIA</name><Link><href>Comuni/Comune di CONZA DELLA CAMPANIA 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di DOMICELLA</name><Link><href>Comuni/Comune di DOMICELLA 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di FLUMERI</name><Link><href>Comuni/Comune di FLUMERI 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di FONTANAROSA</name><Link><href>Comuni/Comune di FONTANAROSA 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di FORINO</name><Link><href>Comuni/Comune di FORINO 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di FRIGENTO</name><Link><href>Comuni/Comune di FRIGENTO 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di GESUALDO</name><Link><href>Comuni/Comune di GESUALDO 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di GRECI</name><Link><href>Comuni/Comune di GRECI 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di GROTTAMINARDA</name><Link><href>Comuni/Comune di GROTTAMINARDA 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di GROTTOLELLA</name><Link><href>Comuni/Comune di GROTTOLELLA 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di GUARDIA LOMBARDI</name><Link><href>Comuni/Comune di GUARDIA LOMBARDI 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di LACEDONIA</name><Link><href>Comuni/Comune di LACEDONIA 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di LAPIO</name><Link><href>Comuni/Comune di LAPIO 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di LAURO</name><Link><href>Comuni/Comune di LAURO 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di LIONI</name><Link><href>Comuni/Comune di LIONI 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di LUOGOSANO</name><Link><href>Comuni/Comune di LUOGOSANO 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di MANOCALZATI</name><Link><href>Comuni/Comune di MANOCALZATI 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di MARZANO DI NOLA</name><Link><href>Comuni/Comune di MARZANO DI NOLA 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di MELITO IRPINO</name><Link><href>Comuni/Comune di MELITO IRPINO 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di MERCOGLIANO</name><Link><href>Comuni/Comune di MERCOGLIANO 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di MIRABELLA ECLANO</name><Link><href>Comuni/Comune di MIRABELLA ECLANO 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di MONTAGUTO</name><Link><href>Comuni/Comune di MONTAGUTO 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di MONTECALVO IRPINO</name><Link><href>Comuni/Comune di MONTECALVO IRPINO 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di MONTEFALCIONE</name><Link><href>Comuni/Comune di MONTEFALCIONE 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di MONTEFORTE IRPINO</name><Link><href>Comuni/Comune di MONTEFORTE IRPINO 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di MONTEFREDANE</name><Link><href>Comuni/Comune di MONTEFREDANE 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di MONTEFUSCO</name><Link><href>Comuni/Comune di MONTEFUSCO 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di MONTELLA</name><Link><href>Comuni/Comune di MONTELLA 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di MONTEMARANO</name><Link><href>Comuni/Comune di MONTEMARANO 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di MONTEMILETTO</name><Link><href>Comuni/Comune di MONTEMILETTO 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di MONTEVERDE</name><Link><href>Comuni/Comune di MONTEVERDE 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di MONTORO</name><Link><href>Comuni/Comune di MONTORO 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di MORRA DE SANCTIS</name><Link><href>Comuni/Comune di MORRA DE SANCTIS 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di MOSCHIANO</name><Link><href>Comuni/Comune di MOSCHIANO 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di MUGNANO DEL CARDINALE</name><Link><href>Comuni/Comune di MUGNANO DEL CARDINALE 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di NUSCO</name><Link><href>Comuni/Comune di NUSCO 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di OSPEDALETTO D`ALPINOLO</name><Link><href>Comuni/Comune di OSPEDALETTO D`ALPINOLO 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di PAGO DEL VALLO DI LAURO</name><Link><href>Comuni/Comune di PAGO DEL VALLO DI LAURO 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di PAROLISE</name><Link><href>Comuni/Comune di PAROLISE 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di PATERNOPOLI</name><Link><href>Comuni/Comune di PATERNOPOLI 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di PETRURO IRPINO</name><Link><href>Comuni/Comune di PETRURO IRPINO 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di PIETRADEFUSI</name><Link><href>Comuni/Comune di PIETRADEFUSI 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di PIETRASTORNINA</name><Link><href>Comuni/Comune di PIETRASTORNINA 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di PRATA PRINCIPATO ULTRA</name><Link><href>Comuni/Comune di PRATA PRINCIPATO ULTRA 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di PRATOLA SERRA</name><Link><href>Comuni/Comune di PRATOLA SERRA 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di QUADRELLE</name><Link><href>Comuni/Comune di QUADRELLE 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di QUINDICI</name><Link><href>Comuni/Comune di QUINDICI 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di ROCCA SAN FELICE</name><Link><href>Comuni/Comune di ROCCA SAN FELICE 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di ROCCABASCERANA</name><Link><href>Comuni/Comune di ROCCABASCERANA 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di ROTONDI</name><Link><href>Comuni/Comune di ROTONDI 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di S ANGELO DEI LOMBARDI</name><Link><href>Comuni/Comune di S ANGELO DEI LOMBARDI 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di S MARTINO VALLE CAUDINA</name><Link><href>Comuni/Comune di S MARTINO VALLE CAUDINA 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di SALZA IRPINA</name><Link><href>Comuni/Comune di SALZA IRPINA 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di SAN MANGO SUL CALORE</name><Link><href>Comuni/Comune di SAN MANGO SUL CALORE 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di SAN MICHELE DI SERINO</name><Link><href>Comuni/Comune di SAN MICHELE DI SERINO 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di SAN NICOLA BARONIA</name><Link><href>Comuni/Comune di SAN NICOLA BARONIA 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di SAN POTITO ULTRA</name><Link><href>Comuni/Comune di SAN POTITO ULTRA 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di SAN SOSSIO BARONIA</name><Link><href>Comuni/Comune di SAN SOSSIO BARONIA 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di SANTA LUCIA DI SERINO</name><Link><href>Comuni/Comune di SANTA LUCIA DI SERINO 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di SANTA PAOLINA</name><Link><href>Comuni/Comune di SANTA PAOLINA 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di SANT`ANDREA DI CONZA</name><Link><href>Comuni/Comune di SANT`ANDREA DI CONZA 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di SANT`ANGELO A SCALA</name><Link><href>Comuni/Comune di SANT`ANGELO A SCALA 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di SANT`ANGELO ALL`ESCA</name><Link><href>Comuni/Comune di SANT`ANGELO ALL`ESCA 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di SANTO STEFANO DEL SOLE</name><Link><href>Comuni/Comune di SANTO STEFANO DEL SOLE 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di SAVIGNANO IRPINO</name><Link><href>Comuni/Comune di SAVIGNANO IRPINO 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di SENERCHIA</name><Link><href>Comuni/Comune di SENERCHIA 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di SERINO</name><Link><href>Comuni/Comune di SERINO 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di SIRIGNANO</name><Link><href>Comuni/Comune di SIRIGNANO 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di SOLOFRA</name><Link><href>Comuni/Comune di SOLOFRA 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di SORBO SERPICO</name><Link><href>Comuni/Comune di SORBO SERPICO 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di SPERONE</name><Link><href>Comuni/Comune di SPERONE 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di STURNO</name><Link><href>Comuni/Comune di STURNO 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di SUMMONTE</name><Link><href>Comuni/Comune di SUMMONTE 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di TAURANO</name><Link><href>Comuni/Comune di TAURANO 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di TAURASI</name><Link><href>Comuni/Comune di TAURASI 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di TEORA</name><Link><href>Comuni/Comune di TEORA 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di TORELLA DEI LOMBARDI</name><Link><href>Comuni/Comune di TORELLA DEI LOMBARDI 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di TORRE LE NOCELLE</name><Link><href>Comuni/Comune di TORRE LE NOCELLE 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di TORRIONI</name><Link><href>Comuni/Comune di TORRIONI 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di TREVICO</name><Link><href>Comuni/Comune di TREVICO 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di TUFO</name><Link><href>Comuni/Comune di TUFO 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di VALLATA</name><Link><href>Comuni/Comune di VALLATA 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di VENTICANO</name><Link><href>Comuni/Comune di VENTICANO 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di VILLAMAINA</name><Link><href>Comuni/Comune di VILLAMAINA 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di VILLANOVA DEL BATTISTA</name><Link><href>Comuni/Comune di VILLANOVA DEL BATTISTA 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di VOLTURARA IRPINA</name><Link><href>Comuni/Comune di VOLTURARA IRPINA 2018-2.kml</href></Link></NetworkLink>
+<NetworkLink><name>Comune di ZUNGOLI</name><Link><href>Comuni/Comune di ZUNGOLI 2018-2.kml</href></Link></NetworkLink>
+</Document></kml>
